@@ -1,5 +1,7 @@
 # Global Rhythm Style Transfer Without Text Transcriptions
 
+Here is a [Link to the Presentation](./Project_Report.pdf)
+
 ## Problem statement
   - Prosody plays an important role in characterizing the style of a speaker or an emotion, but most non-parallel voice or emotion style transfer algorithms   do not convert any prosody information.
   - Two major components of prosody are pitch and rhythm.
